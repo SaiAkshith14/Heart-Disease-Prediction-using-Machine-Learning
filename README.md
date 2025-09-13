@@ -49,9 +49,16 @@ From the analysis and modeling:
 - **Early Detection:** Helps doctors identify patients at higher risk and take preventive measures.  
 - **Improved Healthcare Decisions:** Provides a data-driven approach to support medical experts.  
 - **Resource Optimization:** Focuses medical resources on high-risk patients, saving time and costs.  
-- **Scalable Application:** Can be deployed as a web app (e.g., using Streamlit) for real-time predictions in hospitals or clinics.  
-
+- **Scalable Application:** Can be deployed as a web app (e.g., using Streamlit) for real-time predictions in hospitals or clinics.
+  
 ---
+
+## 🚀 Deployment  
+The predictive model has been deployed as an interactive **web application** using **Streamlit**, allowing users to input patient health parameters and get **real-time heart disease predictions**.  
+
+Try it live here: [Heart Disease Prediction Web App](https://heart-disease-prediction-using-machine-learning-qnidzeeoujojz5.streamlit.app/)  
+
+The deployment demonstrates how machine learning models can be **easily integrated into web apps**, making them accessible for healthcare professionals and patients for **quick and reliable risk assessment**.
 
 ---
 
